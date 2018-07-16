@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/58housing.iml" filepath="$PROJECT_DIR$/.idea/58housing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bbzf-spider/.idea/bbzf-spider.iml" filepath="$PROJECT_DIR$/../bbzf-spider/.idea/bbzf-spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cherry/.idea/cherry.iml" filepath="$PROJECT_DIR$/../cherry/.idea/cherry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fangworld/.idea/fangworld.iml" filepath="$PROJECT_DIR$/../fangworld/.idea/fangworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../space/msp-devops/.idea/msp-devops.iml" filepath="$PROJECT_DIR$/../../space/msp-devops/.idea/msp-devops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../space/bb/python-bb-auth/.idea/python-alfrescoclient.iml" filepath="$PROJECT_DIR$/../../space/bb/python-bb-auth/.idea/python-alfrescoclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testspiders/.idea/testspiders.iml" filepath="$PROJECT_DIR$/../testspiders/.idea/testspiders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../space/urllib1/.idea/urllib.iml" filepath="$PROJECT_DIR$/../../space/urllib1/.idea/urllib.iml" />
+    </modules>
+  </component>
+</project>

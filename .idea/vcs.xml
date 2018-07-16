@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../bbzf-spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dirbot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../testspiders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/api/python-alfrescoclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/bb/python-alfrescoclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/bb/python-alfrescoclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/bb/python-bb-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/bb/python-bb-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/msp-devops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../space/popcorn" vcs="Git" />
+  </component>
+</project>
